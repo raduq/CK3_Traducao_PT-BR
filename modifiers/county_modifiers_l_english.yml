@@ -1,11 +1,13 @@
 ﻿l_english:
- peasant_war_lost_county_modifier:0 "Increased Autonomy"
- county_increased_opinion_modifier:0 "Locals Pacified"
- county_listened_to_locals_modifier:0 "Listened to Locals"
- county_mysterious_disappearances_modifier:0 "Mysterious Disappearances"
- county_raised_runestone_modifier:0 "Runestone"
- irrigated_oasis_modifier:0 "Irrigated Oasis"
- guarded_irrigated_oasis_modifier:0 "Guarded Irrigated Oasis"
- oasis_modifier:0 "Oasis"
+ peasant_war_lost_county_modifier:0 "Autonomia Aumentada"
+ county_increased_opinion_modifier:0 "Locais Pacificados"
+ county_listened_to_locals_modifier:0 "Escutou os Locais"
+ county_mysterious_disappearances_modifier:0 "Desaparecimentos Misteriosos"
+ county_raised_runestone_modifier:0 "Runa"
+ irrigated_oasis_modifier:0 "Oásis Irrigado"
+ guarded_irrigated_oasis_modifier:0 "Oásis Irrigado Protegido"
+ oasis_modifier:0 "Oásis"
  county_shuubiyya_modifier:0 "Shu'ubiyya"
- county_forced_assimilation_modifier:0 "Forced Assimilation"
+ county_forced_assimilation_modifier:0 "Assimilação Forçada"
+
+## Raduq - 12/10/2020
